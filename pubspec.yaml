@@ -1,0 +1,16 @@
+name: frustra_app
+description: Anonymous venting & chat app
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.12.0
+  firebase_auth: ^5.10.0
+  cloud_firestore: ^5.12.0
+  firebase_storage: ^11.2.0
+  record: ^5.2.0
+  path_provider: ^2.0.15
